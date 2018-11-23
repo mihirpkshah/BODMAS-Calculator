@@ -10,7 +10,7 @@ Works with android 4.0.3 and later.
 1. Works with ***multiple inputs*** at one go
 2. Evaluates ***Parentheses***
 3. Contains almost **25** different ***Scientific Functions***
-4. Contains ***Trignometry Functions***
+4. Contains ***Trigonometry Functions***
 5. Has two constants **e** and **pi**
 6. ***Smart operators recognition***
 ---
