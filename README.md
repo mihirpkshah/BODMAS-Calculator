@@ -1,9 +1,10 @@
 # BODMAS Calculator
 ## A Simple Android BODMAS Calculator
 
-
 Works with android 4.0.3 and later.
+
 ---
+
 ### Features
 
 1. Works with ***multiple inputs*** at one go
