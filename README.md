@@ -1,1 +1,1 @@
-# BODMAS Calculator
+# Bodmas Calculator
